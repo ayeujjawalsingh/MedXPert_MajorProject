@@ -255,4 +255,4 @@ def home(request):
 
 > In this file, we will define our all function and backend logic to render it to the output screen
 
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/IDJ-OrnkaiY)
