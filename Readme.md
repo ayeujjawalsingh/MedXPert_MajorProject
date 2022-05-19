@@ -1,30 +1,3 @@
-
-# <p align="center">Project Demonstration</p>
-
-## Home
-
-![Home Screenshot](./Screenshots/Med_home.png)
-
-## Service
-![Service Screenshot](./Screenshots/Med_service.png)
-
-## Diagnose
-![Diagnose Screenshot](./Screenshots/Med_diagnose.png)
-
-## Liver Disorder
-![Diagnose Screenshot](./Screenshots/Med_liver.png)
-
-## Liver Disorder Checkup
-![Diagnose Screenshot](./Screenshots/Med_checkup.png)
-
-## Risk Report
-![Diagnose Screenshot](./Screenshots/Med_risk_report.png)
-
-## Safe Report
-![Diagnose Screenshot](./Screenshots/Med_no_risk_report.png)
-
-<hr>
-
 # <p align="center">Project Installations in Local System</p>
 
 ## Tools & Technology Required
@@ -254,3 +227,31 @@ def home(request):
 `return render( request , return )`
 
 > In this file, we will define our all function and backend logic to render it to the output screen
+
+# <p align="center">Project Demonstration</p>
+
+## Home
+
+![Home Screenshot](./Screenshots/Med_home.png)
+
+## Service
+![Service Screenshot](./Screenshots/Med_service.png)
+
+## Diagnose
+![Diagnose Screenshot](./Screenshots/Med_diagnose.png)
+
+## Liver Disorder
+![Diagnose Screenshot](./Screenshots/Med_liver.png)
+
+## Liver Disorder Checkup
+![Diagnose Screenshot](./Screenshots/Med_checkup.png)
+
+## Risk Report
+![Diagnose Screenshot](./Screenshots/Med_risk_report.png)
+
+## Safe Report
+![Diagnose Screenshot](./Screenshots/Med_no_risk_report.png)
+
+<hr>
+
+
